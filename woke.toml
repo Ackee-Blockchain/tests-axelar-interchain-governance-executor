@@ -1,0 +1,4 @@
+[compiler.solc]
+ignore_paths = ["source/node_modules"]
+include_paths = ["source/node_modules"]
+remappings = ["contracts/=source/contracts/"]
