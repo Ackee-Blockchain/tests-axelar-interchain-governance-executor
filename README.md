@@ -4,7 +4,7 @@
 
 1. Clone this repository
 2. `git submodule update --init --recursive` if not cloned with `--recursive`
-3. `cd source && npm install && cd ..` to install dependencies
+3. `cd source && yarn install && cd ..` to install dependencies
 4. `woke init pytypes` to generate pytypes
 5. `woke test` to run tests
 
