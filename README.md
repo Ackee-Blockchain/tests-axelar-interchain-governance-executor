@@ -1,4 +1,4 @@
-# Woke tests for Axelar Interchain Governance Executor
+# Tests for Axelar Interchain Governance Executor
 
 ## Setup
 
