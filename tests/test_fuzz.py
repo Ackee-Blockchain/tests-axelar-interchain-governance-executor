@@ -1,8 +1,8 @@
 import random
 from collections import defaultdict
 from typing import DefaultDict, Dict
-from woke.testing import *
-from woke.testing.fuzzing import *
+from wake.testing import *
+from wake.testing.fuzzing import *
 from pytypes.axelarnetwork.axelargmpsdksolidity.contracts.interfaces.IAxelarExecutable import IAxelarExecutable
 
 from pytypes.axelarnetwork.axelargmpsdksolidity.contracts.test.MockGateway import MockGateway
